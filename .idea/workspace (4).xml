@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61d6df4f-d93d-48ab-904c-e927bb16b8e4" name="Changes" comment="commit init">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/applicationContext2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/applicationContext3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/myApplication.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/aop/AbstractLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/aop/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/aop/SchoolLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/aop/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/aop/UnyLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/aop/aspect/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/spring/ConfigWithAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/spring/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/spring/ScopeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/spring/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/spring/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/spring/Test6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zachesov/spring/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/spring/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zachesov/spring/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/spring/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zachesov/spring/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/spring/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zachesov/spring/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zachesov/spring/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/zachesov/spring/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/zachesov/spring/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/zachesov/spring/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/zachesov/spring/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/zachesov/spring/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/zachesov/spring/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/zachesov/spring/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/zachesov/spring/Test3.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="220zjUIutOn85jzGGcxYxqXB6ZT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sergei\YandexDisk\Programming\Java\Project\SpringCourse\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.zachesov" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="ConfigWithAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.zachesov.spring.ConfigWithAnnotation" />
+      <module name="SpringCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.zachesov.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScopeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.zachesov.spring.ScopeTest" />
+      <module name="SpringCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.zachesov.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.zachesov.aop.Test1" />
+      <module name="SpringCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.zachesov.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.zachesov.spring.Test5" />
+      <module name="SpringCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.zachesov.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.zachesov.spring.Test6" />
+      <module name="SpringCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.zachesov.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test6" />
+        <item itemvalue="Application.ScopeTest" />
+        <item itemvalue="Application.ConfigWithAnnotation" />
+        <item itemvalue="Application.Test5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61d6df4f-d93d-48ab-904c-e927bb16b8e4" name="Changes" comment="" />
+      <created>1638989427377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638989427377</updated>
+      <workItem from="1638989428518" duration="302000" />
+      <workItem from="1639042658156" duration="1212000" />
+      <workItem from="1639073474938" duration="2633000" />
+      <workItem from="1639105967294" duration="3951000" />
+      <workItem from="1639112763866" duration="2845000" />
+      <workItem from="1639117137326" duration="354000" />
+      <workItem from="1639118618808" duration="823000" />
+      <workItem from="1639128370321" duration="77000" />
+      <workItem from="1639151610551" duration="5212000" />
+      <workItem from="1639217256963" duration="11507000" />
+      <workItem from="1639299011866" duration="8915000" />
+      <workItem from="1639329443917" duration="2894000" />
+      <workItem from="1639387577461" duration="405000" />
+      <workItem from="1639414390565" duration="967000" />
+      <workItem from="1639415383332" duration="3774000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit init">
+      <created>1639161640379</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639161640379</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit init" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit init" />
+  </component>
+</project>
